@@ -240,7 +240,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background-image: URL("images/_MG_8234.JPG") ;
+  background-image: URL("images/mg.JPG") ;
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
